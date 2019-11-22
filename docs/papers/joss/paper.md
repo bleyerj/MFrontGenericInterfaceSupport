@@ -294,7 +294,7 @@ over a time step. Examples of usage in various open-source solvers
 This research was conducted in the framework of the `PLEIADES` project,
 which is supported financially by the CEA (Commissariat à l’Energie
 Atomique et aux Energies Alternatives), EDF (Electricité de France) and
-Framatome.Acknowledgements
+Framatome.
 
 We would like to express our thanks to Olaf Kolditz and the entire
 community of developers and users of OpenGeoSys(OGS). We thank the
